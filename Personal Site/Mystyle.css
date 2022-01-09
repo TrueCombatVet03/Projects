@@ -1,0 +1,70 @@
+head{
+    color:rgb(134, 35, 206)
+}
+
+
+body{
+    font-family: "bookman old style";
+    text-align: center;
+    color:rgb(45, 185, 150);
+    
+}
+
+
+
+title{
+    color:lightslategrey
+}
+head{
+    color: lightsteelblue;
+    font-family: "bookman old style";
+}
+
+
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+}
+
+h2{
+    -moz-text-decoration-style: wavy;
+}
+
+h3{
+    background-color: burlywood;
+    font-size: 20px;
+    color:darkslategrey;
+    width:200px;
+    text-align: center;
+
+ }
+ .text{
+     line-height: 2;
+     font-size: 18px;
+     width:80%;
+     text-transform: uppercase; 
+
+ }
+   .blue-bg{
+       background-color:darkslategrey;
+   }
+   .green-bg{
+       background-color: dimgrey;
+   }
+      Mark{
+          background-color: firebrick;
+      }
+      .orange-bg{
+          background-color: lightcoral;
+          text-decoration-style: dashed;
+
+      }

@@ -1,0 +1,41 @@
+h1{
+    font-style: italic;
+text-align: center;
+text-decoration-color: lightslategray;
+text-decoration: underline;}
+
+h2{
+    font-style:oblique;
+    color:lightslategrey;
+    text-indent: 30px;
+   
+}
+h3{
+    font-family: "monospace""courier new";
+    font-weight:normal;
+    line-height: 20px;
+}
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:100
+}
+h5{
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 30px;
+
+}
+h6{
+    font-size:larger;
+    font-weight:100;
+    line-height: 20px;
+}
+
+
+
+
+
+.box-1{
+    background-image: url(../img/landscape.png);
+    background-position: center;
+}

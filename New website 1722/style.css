@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+
+body{
+    background:rgb(233, 236, 240);
+    margin: 0;
+    font-family: 'poppins';
+    color:black;
+}
+
+.play-button{
+    width: 250px;
+}
+
+.navbar {
+    background:white;
+    padding: 1em;
+    color:black;
+    
+}
+.logo{
+    text-decoration: none;
+    font-weight:bold;
+    color:black;
+    font-size: 1.4em;
+  
+}
+.span{
+    color:rgb(14, 14, 126);
+}
+
+.nav{
+   display: none; 
+}
+
+.mobile-menu{
+    cursor: pointer;
+}
+
+a{
+    color:#444444;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+section:{
+    padding: 5em 2em;
+}
+
+.hero{
+    text-align: center;
+}
+
+.left-col{
+    
+}
+
+.subhead{
+    text-transform: uppercase;
+    font-weight: bold;
+    color:rgb(7, 7, 7);
+}
+
+h1{
+   font-size: 2.5em;
+   line-height: 1.3em;
+   margin-top: .2em; 
+}
+    
+.primary-cta{
+    background: rgb(11, 34, 241);
+    color:rgb(252, 247, 247);
+    text-decoration: none;
+    padding: .6em 1.3em;
+    font-size: 1.4em;
+    border-radius: 5em;
+    font-weight: bold;
+    display: inline-block;
+    
+}
+
+.watch-video-cta{
+    display: block;
+    margin-top: 1em;
+}
+
+.hero-img{
+    width: 50%;
+    margin-top: 3em;
+    
+}
+
+.features-section{
+    background:rgb(77, 75, 75);
+    color:honeydew;
+}
+
+ul.features{
+    margin: 0;
+    padding-left: 1em;
+
+}
+
+li{
+    font-size: 1.1em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    position: center;
+    
+}
+
+.testimonials-section{
+    background-color: rgb(81, 164, 197);
+    
+}
+
+
+    
